@@ -1,6 +1,6 @@
 IERC20Token
 Contract
-IERC20Token : contracts/dacade.sol
+IERC20Token : contract/restaurant.sol
 
 Functions:
 transfer
@@ -26,7 +26,7 @@ This contract allows customers to buy products using cUSD tokens and leave revie
 A smart contract for managing a restaurant where customers can buy products and leave reviews.
 
 Contract
-Restaurant : contracts/dacade.sol
+Restaurant : contract/restaurant.sol
 
 A smart contract for managing a restaurant where customers can buy products and leave reviews.
 
