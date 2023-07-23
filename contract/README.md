@@ -1,4 +1,3 @@
-Solidity API
 IERC20Token
 Contract
 IERC20Token : contracts/dacade.sol
