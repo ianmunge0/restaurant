@@ -39,4 +39,4 @@ npm run build
 https://ianmunge0.github.io/restaurant/
 
 # Dapp description
-Order your meals from a restaurant with the Restaurant dapp. The owner can add available meals. Customers get a 20% discount on their fourth meal
+Order your meals from a restaurant with the Restaurant dapp. The owner can add available meals. Customers get a 20% (arbitrary) discount on their fourth meal
