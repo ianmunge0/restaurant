@@ -2,15 +2,13 @@
 
 ```
 
+nvm use 14
+
+```
+
+```
+
 npm install
-
-```
-
-or 
-
-```
-
-yarn install
 
 ```
 
